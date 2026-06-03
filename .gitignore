@@ -1,0 +1,8 @@
+node_modules/
+*.msix
+*.msixbundle
+*.appx
+*.appxbundle
+*.log
+.env
+

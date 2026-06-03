@@ -1,0 +1,13 @@
+{
+  "name": "codex-native-installer",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Download and install the Windows Codex app package.",
+  "scripts": {
+    "start": "node auto_install.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.1.0"
+  }
+}
+
